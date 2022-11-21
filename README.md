@@ -9,14 +9,14 @@
 
 # Steps to run the App:
   1. Install the dependencies:
-     ~~~ npm install
+     ~~~ npm install ~~~
   2. Connect Ganache TestNet to your Metamask client.
   3. Test if the functionalities run:
-     ~~~ truffle test
+     ~~~ truffle test ~~~
   4. If Successful , deploy and migrate contracts:
-     ~~~ truffle migrate --reset
+     ~~~ truffle migrate --reset ~~~
   5. Initiate localhost development server:
-     ~~~ npm run start
+     ~~~ npm run start ~~~
   # This is how it looks:
-   ![Alt text](defi-staking/src/defi-demo.jpg?raw=true "Defi Staking App")
+   ![https://github.com/sayan8759/defi-staking/blob/main/src/defi-demo.jpg](defi-staking/src/defi-demo.jpg?raw=true "Defi Staking App")
   
